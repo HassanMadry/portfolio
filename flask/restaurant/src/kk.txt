@@ -1,0 +1,24 @@
+ I would like my project to display a menu, take orders and print a receipt.
+
+
+
+1. GET/ item id, item name
+
+2. POST/ item id, item name, quantity
+
+3. GET/ customer name, order number, items ordered, price
+
+4. DELETE/ delete an order
+
+5. PUT/ update an order
+
+6. POST/ Add a new item to the menu
+
+
+
+3.
+Database name :
+ Restaurant 
+Tables:
+
+
